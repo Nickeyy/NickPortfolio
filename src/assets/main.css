@@ -1,1 +1,9 @@
 @import './base.css';
+@font-face {
+    font-family: "burtons";
+    src: url("../../public/Burtons.otf");
+  }
+
+.font-burtons {
+    font-family: "burtons", sans-serif;
+  }
