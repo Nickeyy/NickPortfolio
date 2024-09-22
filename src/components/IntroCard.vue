@@ -26,7 +26,6 @@ const copyEmail = () => {
             <span class="w-2 h-2 bg-emerald-500 rounded-full mr-2"></span>
             <div class="uppercase text-emerald-500 hidden md:block">Available for new Challenges</div>
         </div>
-
     </div>
 
     <div class="flex flex-row flex-wrap-reverse justify-center md:justify-between">
