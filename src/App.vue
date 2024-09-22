@@ -31,9 +31,9 @@ const toggleDarkMode = () => {
               d="M480-120q-133 0-226.5-93.5T160-440q0-133 93.5-226.5T480-760q47 0 89 13t78 37q-79 35-126.5 109.5T473-440q0 106 67 190t170 108q-35 24-77 37t-89 13Z" />
           </svg>
         </button>
-        <button class="bg-sky-500 hover:bg-sky-600 text-white ml-4 py-2 px-4 rounded-xl" href="mailto:info@nickdurrer.ch">
-          Mail Me!
-        </button>
+        <a class="bg-sky-500 hover:bg-sky-600 text-white ml-4 py-2 px-4 rounded-xl" href="mailto:info@nickdurrer.ch">
+          Email me!
+        </a>
         </div>
       </div>
     </nav>
