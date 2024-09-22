@@ -16,7 +16,7 @@ const toggleDarkMode = () => {
       style="max-width: 660px;">
       <div class="flex justify-between items-center">
         <div>
-          <h1 class="text-xl font-burtons text-gray-700 dark:text-white">developedbynick</h1>
+          <h1 class="text-lg md:text-xl font-burtons text-gray-700 dark:text-white">developedbynick</h1>
         </div>
         <div class="flex items-center">
           <button class="cursor-pointer" @click="toggleDarkMode">
@@ -37,7 +37,6 @@ const toggleDarkMode = () => {
         </div>
       </div>
     </nav>
-
     <RouterView />
   </div>
 </template>
