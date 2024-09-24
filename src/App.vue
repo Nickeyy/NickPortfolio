@@ -10,7 +10,7 @@ const toggleDarkMode = () => {
 </script>
 
 <template>
-  <div :class="{ dark: isDarkMode }" class="p-2 h-screen bg-gray-100 dark:bg-zinc-900 dark:text-white">
+  <div :class="{ dark: isDarkMode }" class="p-2 min-h-screen bg-gray-100 dark:bg-zinc-900 dark:text-white">
     <nav
       class="sticky top-4 container sm mx-auto p-6 px-8 border-2 border-gray-200 dark:border-zinc-700 rounded-xl bg-white dark:bg-zinc-800 space-y-10"
       style="max-width: 660px;">

@@ -41,7 +41,7 @@ const copyEmail = () => {
                 </button>
             </div>
         </div>
-        <img src="@/assets/nick.png" alt="Nick Durrer"
+        <img src="/nick.png" alt="Nick Durrer"
             class="w-44 h-44 rounded-full border-4 border-gray-200 dark:border-zinc-700" />
     </div>
 </template>
