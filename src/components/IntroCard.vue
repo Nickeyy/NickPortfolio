@@ -19,7 +19,7 @@ const copyEmail = () => {
 <template>
     <div class="flex flex-row justify-between">
         <ul class="list-inside list-disc">
-            <li class="md:text-lg text-md text-gray-500 dark:text-zinc-300 font-bold">Future Product Manager</li>
+            <li class="md:text-lg text-md text-gray-500 dark:text-zinc-300 font-bold">Mobile Developer</li>
         </ul>
 
         <div class="inline-flex items-center bg-emerald-300 text-green-800 text-sm font-medium px-3 py-1 rounded-full bg-opacity-20">
