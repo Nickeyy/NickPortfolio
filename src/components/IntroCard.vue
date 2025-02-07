@@ -33,7 +33,7 @@ const copyEmail = () => {
             <h1 class="py-4 md:py-0 text-center md:text-left text-2xl md:text-3xl font-bold text-gray-700 dark:text-white">I'm Nick Durrer</h1>
             <h2 class="text-lg md:text-1xl text-center md:text-left text-gray-500 dark:text-zinc-300">
                 Current Mobile/Web Developer from Switzerland. 
-                I am strongly interested in pursuing a PM/PO role.
+                I am strongly interested in pursuing a more strategic role as a BA or PM.
             </h2>
             <div class="flex flex-row flex-nowrap justify-center md:justify-start gap-x-2">
                 <button @click="copyEmail" class="bg-sky-500 hover:bg-sky-600 text-white font-bold py-2 px-4 rounded-xl">
